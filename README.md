@@ -89,4 +89,4 @@ git push --set-upstream origin Homewor/1/BmiCalculator
 
 >### Good resources:
 >[How to write good commit message](https://chiamakaikeanyi.dev/how-to-write-good-git-commit-messages/)<br>
-[How to write the perfect pull request](https://github.blog/2015-01-21-how-to-write-the-perfect-pull-request/)<br>
+>[How to write the perfect pull request](https://github.blog/2015-01-21-how-to-write-the-perfect-pull-request/)<br>
