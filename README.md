@@ -3,8 +3,10 @@
 1. Download and Install Git from https://git-scm.com/downloads
 2. If you don't have an GitHub account create one here https://github.com/join
 3. After you created your account login to GitHub and go to https://github.com/csinn/CSharp-From-Zero-To-Hero-v2 
-Here you will have to fork the repository. The "Fork" operation will create a copy of the CSharp-From-Zero-To-Hero-v2 to your GitHub account.<br>
-![github-fork](images/01_github_fork.png)
+>Here you will have to fork the repository. The "Fork" operation will create a copy of the CSharp-From-Zero-To-Hero-v2 to your GitHub account.<br>
+
+![github-fork](images/01_github_fork.png)<br>
+
 4. Open a command line and configure git using:<br>
 ```bash
 git config --global user.name "Your Name on GitHub"
